@@ -1,4 +1,5 @@
 Script started on 2016年03月12日 (週六) 11時45分07秒
+<<<<<<< HEAD
 ]0;C14036099@2015cpp: ~C14036099@2015cpp:~$ whoami;pwd
 C14036099
 /home/C14036099
@@ -8,5 +9,16 @@ user.email=yasusan84@yahoo.com.tw
 ]0;C14036099@2015cpp: ~C14036099@2015cpp:~$ git clone https://github.com/Yehtu/lab1.git
 fatal: destination path 'lab1' already exists and is not an empty directory.
 ]0;C14036099@2015cpp: ~C14036099@2015cpp:~$ exit
+=======
+]0;C14036099@2015cpp: ~C14036099@2015cpp:~$ whoami;pwd
+C14036099
+/home/C14036099
+]0;C14036099@2015cpp: ~C14036099@2015cpp:~$ git config -l
+user.name=Yehtu
+user.email=yasusan84@yahoo.com.tw
+]0;C14036099@2015cpp: ~C14036099@2015cpp:~$ git clone https://github.com/Yehtu/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;C14036099@2015cpp: ~C14036099@2015cpp:~$ exit
+>>>>>>> 6ff750704c80222ebc0c32524c8134410f8123d1
 
 Script done on 2016年03月12日 (週六) 11時47分37秒
